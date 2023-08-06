@@ -1,1 +1,1 @@
-# Blog-application
+# Blog-application frontend
